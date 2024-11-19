@@ -1,0 +1,48 @@
+body {
+    color:#00f7ff;
+    background:#9b1111;
+    margin: 0px;
+}
+
+header {
+border-bottom: solid 3px #000000;
+padding: 5px;
+font-size: 32px;
+color: #ffc300;
+}
+
+section {
+
+background: #481954;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+
+margin-right: 20%;
+
+
+
+}
+h1{
+
+font-size: 40px;
+
+}
+p{
+
+font-size: 20px;
+
+}
+img{
+
+height: 200px
+
+}
+.categoria-videos{
+display: flex;
+
+}
